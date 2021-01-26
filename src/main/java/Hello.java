@@ -5,6 +5,7 @@ public class Hello {
         //watching more movie in the bedroom
         // movie on the phone 10 min
         //movie on the phone 20 min
+        // another 10 min before goi ng to living room
 
     }
 
